@@ -1,4 +1,4 @@
-﻿namespace SyraevAD
+﻿namespace syraev_alberrt
 {
     internal class Program
     {
@@ -6,10 +6,10 @@
         {
             Console.WriteLine("Hello, World!");
         }
-        static public double Sqrt(double x)
-        {
-            x = x * x;
-            return x;
-        }
     }
+    // syraev Zam-1-23
+    // решение 8 задачи
+
+
+
 }
