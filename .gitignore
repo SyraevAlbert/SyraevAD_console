@@ -1,3 +1,5 @@
 *.pdf
 !SyraevAD.pdf
+bin/
+obj/
 # syraev
